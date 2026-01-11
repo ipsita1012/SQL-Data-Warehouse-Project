@@ -22,6 +22,5 @@ Sales Trends
 
 These insights empower stakeholders with key business metrics enabling strategic decision-making.
 
-ABOUT ME!
-Hi There! I am Ipsita Sahu an aspiring data engineer on a mission to excel in SQL Queries, data extraction and management. 
-A
+## ABOUT ME!
+Hi There! I am Ipsita Sahu an aspiring data engineer on a mission to excel in SQL Queries, data extraction and management.
